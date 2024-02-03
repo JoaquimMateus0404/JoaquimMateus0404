@@ -4,12 +4,16 @@
 Welcome to my GitHub profile! 👋
 
 ## About Me
+I am Duarte Gauss, a young student majoring in Management Informatics, passionate about information technology, software development, and everything related to the vast world of programming. With a curious and inquisitive mind, I am constantly seeking to enhance my skills and explore new technologies. In addition to my academic studies, I have been involved in freelance projects, applying my knowledge in a practical manner and gaining valuable experience in the real-world field of software development.
 
-I'm Duarte Gauss, a passionate [occupation] interested in [your interests]. Currently, I'm working on [current project/role].
+## 💡 More About Me
+Always in pursuit of stimulating challenges, I have dedicated myself to developing innovative solutions. My areas of interest include mobile app development, exploring advanced data mining techniques, and creating robust software. Furthermore, I possess strong skills in .NET (C#), Java, and Laravel, and I am always open to collaborations on projects involving artificial intelligence and machine learning. If you are seeking an enthusiastic and committed developer, I am here to contribute and learn alongside the community.
 
 ## 🔭 Currently Working On
 
-- Developing [project name] - [brief description].
+- Currently, I am focused on the development of an exciting project called EcoSolution. This project is a mobile application aimed at environmental awareness. The main goal is to encourage users to adopt more sustainable and environmentally friendly habits, and I am committed to creating an innovative solution that meets the needs of the end user. Additionally, I am exploring the integration of technologies such as ChatGPT to enhance the efficiency and functionality of the project.
+
+- This project not only challenges my technical skills but also provides me with the opportunity to apply concepts learned in my Management Informatics course in a practical setting. I am excited about the results we can achieve and look forward to sharing more details soon. Stay tuned for updates on this exciting work in progress! 👨‍💻✨
 
 ## 🌱 Currently Learning
 
@@ -46,7 +50,7 @@ I'm Duarte Gauss, a passionate [occupation] interested in [your interests]. Curr
 
 ## ⚡ Fun Fact
 
-- [Interesting fact about yourself or something unique you enjoy]
+- Amidst my fascination with technology, I harbor a secret passion for solving complex puzzles and participating in challenging hackathons. I believe that every problem is an opportunity for learning and innovation. Additionally, I love exploring new cafes while working on my projects, as the combination of a good environment and inspiring coffee stimulates my creativity. If you happen to find me in one of these cafes, you can bet that I am immersed in lines of code and innovative ideas. The development journey is as thrilling as the final destination, and I am always eager for new adventures in the programming world. 😄
 
 ## Featured Projects
 
